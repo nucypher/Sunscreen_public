@@ -31,7 +31,7 @@ We look at some efficient zero-knowledge proof protocols (i.e. [SNARKs](https://
 
 We outline our design goals for a PPSC scheme and our core beliefs about what a "successful" scheme might look like for us. We provide a brief look into the building blocks we might use for such a scheme and the associated challenges around combining efficient ZKPs with FHE.
 
-The appendix of this document was originally part of a separate internal document titled "Using Bulletproofs" from July 2019. In it, we consider two lines of work based on Bulletproofs. The first builds on [Zether](https://eprint.iacr.org/2019/191.pdf) whereas the second argues for the creation of a new PPSC scheme using FHE based on [Short Discrete Log Proofs for FHE & Ring-LWE Ciphertexts](https://eprint.iacr.org/2019/057.pdf).
+The appendix of this document was originally part of a separate internal document titled "Using Bulletproofs" from July 2019. In it, we consider two lines of work based on Bulletproofs. The first builds on [Zether](https://eprint.iacr.org/2019/191.pdf) whereas the second argues for the creation of a new PPSC scheme using FHE inspired by some of the work in [Short Discrete Log Proofs for FHE & Ring-LWE Ciphertexts](https://eprint.iacr.org/2019/057.pdf).
 
 
 ## Implementation Work
